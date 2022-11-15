@@ -30,7 +30,17 @@ function imag() {
     findprof('masto.ai',f);
     findprof('sueden.social',f);
     findprof('tkz.one',f);
+    findprof('octodon.social',f);
+    findprof('mastodon.nl',f);  
+    findprof('mastodon.brussels',f);
+    findprof('mastodon.fun',f);
+    findprof('mastodon.xyz',f);
+    findprof('mastodon.brussels',f);
+    findprof('mastodon.host',f);
+    findprof('mastodon.irish',f);
     findprof('mastodon.cloud',f);
+    findprof('mastodon.cc',f);
+    findprof('kolektiva.social',f);
     findprof('mastodon.vlaanderen',f);
   } 
 }
