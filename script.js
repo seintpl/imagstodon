@@ -58,3 +58,9 @@ function imag() {
     })
   } 
 }
+
+const urlget = new URLSearchParams(window.location.search);
+if (urlget.has('u')) {
+    document.getElementById('nickname').value = urlget.get('u');
+    imag();  
+}
